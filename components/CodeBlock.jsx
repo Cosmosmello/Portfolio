@@ -1,12 +1,12 @@
-const Codeblock= ({ quote, author }) => {
+const CodeBlock= ({ quote, author }) => {
     return (
-      <div className="Codeblock">
+      <div className="CodeBlock">
         <p>{quote}</p>
         <p className="author">{author}</p>
       </div>
     );
   };
   
-  export default Codeblock;
+  export default CodeBlock;
   
   

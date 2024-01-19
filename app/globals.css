@@ -26,7 +26,7 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-.codeblock {
+.CodeBlock {
   background-color: #393939; /* Grey background */
   text-align: center; /* Center text horizontally */
   padding: 20px;
