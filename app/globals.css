@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.codeblock {
+  background-color: #393939; /* Grey background */
+  text-align: center; /* Center text horizontally */
+  padding: 20px;
+  border-radius: 8px;
+  overflow: hidden; /* Hide overflow */
+  font-style: italic; /* Make text italic */
+  font-weight: 250; /* Thinner font weight - adjust as needed */
+  white-space: pre-wrap; /* Wrap text to the next line */
+  word-break: break-word; /* Break long words to prevent horizontal overflow */
+}
