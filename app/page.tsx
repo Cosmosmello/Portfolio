@@ -7,7 +7,7 @@ export default function Home() {
       <div>
         <h1 className="p-4">Mikael Mello</h1>
         <p className="p-4 font-light">This is a working in progress. I am a work in progress.</p>
-        <p className="p-4 font-light">You will be able to see here, soon, a little preview of the work and progress I have been working on.</p>
+        <p className="p-4 font-light">You will be able to see here, soon, a little bit of what I have been working on.</p>
       </div>
 
       <div className="">
